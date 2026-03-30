@@ -18,14 +18,38 @@ header{
   float: left;
   margin-left: 10%;
   margin-top: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon{
+  color: #dd3fa1;
+  width: 60%;
+  height: auto;
 }
 section{
   width: 100%;
   height: 50vh;
   background: #a3fff3;
 }
+section h1{
+  width: 100%;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 20vh;
+  float: left;
+  color: #fff;
+  text-shadow: 2px 2px 4px #333;
+}
 footer{
   width: 100%;
   height: 20vh;
   background: #ffa5a5;
+}
+footer img{
+  width: auto;  
+  height: 15vh;
+  margin-top: 2.5vh;
+  margin-left: 5%;
 }
