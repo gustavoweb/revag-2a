@@ -1,0 +1,31 @@
+main{
+  width: 100%;
+  height: 100vh;
+  float: left;
+  background: #f8ff26;
+}
+header{
+  width: 100%;
+  height: 30vh;
+  background: #ff93eb;
+}
+.icones{
+  width: 20%;
+  height: auto;
+  aspect-ratio: 1/1;
+  background: #fff;
+  border-radius: 200px;
+  float: left;
+  margin-left: 10%;
+  margin-top: 10vh;
+}
+section{
+  width: 100%;
+  height: 50vh;
+  background: #a3fff3;
+}
+footer{
+  width: 100%;
+  height: 20vh;
+  background: #ffa5a5;
+}
